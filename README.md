@@ -38,7 +38,7 @@ Zarı attık ve artık gelen sayılarımıza bakarız. örneğin;![3](https://gi
      <li> 6-1: Şeş-i Yek;
   </li>
   </ul>
-### İÇERİK
+## İÇERİK
 Öncelikle projemizin içeriğinden ve nasıl açabileceğinizi açıklayacağım.
 <li> Ben uygulamamı tasarlarken Windows Forms kulllanacağım. Nedir bu windows forms ? Neden bunu tercih ettim hemen ufak bahsedeyim.
   Windows Forms, Microsoft tarafından geliştirilen bir framework'tür ve Windows tabanlı masaüstü uygulamaları geliştirmek için kullanılır. Windows Forms, kullanıcı arayüzü oluşturmayı ve etkileşimli Windows uygulamaları geliştirmeyi kolaylaştırır. Bu da bizim işimize gelir:)
