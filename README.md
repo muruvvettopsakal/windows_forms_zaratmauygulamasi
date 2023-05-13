@@ -75,8 +75,9 @@ Microsoft Visual Studio
         
         Bu kod parçası giris.cs dosyamızda bulunacak. Windows Forms uygulamasında kullanılan özel alanların bildirimlerini içerir. Asıl temel mantığımız bunu oluşturmak olmalı.
 
- button1, bir düğme kontrolünü temsil eden özel bir alanı ifade eder.
-    label1 ve label2, etiket kontrollerini temsil eden özel alanları ifade eder.
+ </br>
+ <strong>button1</strong>, bir düğme kontrolünü temsil eden özel bir alanı ifade eder.
+   <strong>label1</strong> ve <strong>label2</strong>, etiket kontrollerini temsil eden özel alanları ifade eder.
 
 Bu alanlar genellikle bir Windows Forms sınıfı içinde kullanılır ve bu sınıfta tanımlanan kontrollere erişmek için kullanılır. Yani,<strong> button1 </strong>,  <strong> label1</strong> ve <strong>label2 </strong> gibi kontrol elemanlarına erişim sağlamak veya bu kontrol elemanları üzerinde işlemler gerçekleştirmek için bu özel alanları kullanabilirsiniz. Örneğin, düğmeye tıklandığında bir işlem gerçekleştirmek veya etiketlere metin atamak gibi.
 ## Form1
