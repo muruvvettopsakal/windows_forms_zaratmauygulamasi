@@ -1,91 +1,51 @@
-# Windows Forms Kullanarak Zar Atma Uygulaması Yapımı
-### Zar Atma Uygulaması amacı
-  Amacımız tavla oyunundaki atılan zarların tavlada ne anlama geldiklerini öğrenmektir. Böylece rakiplerinizle yarışmadan önce zarların ne anlama geldiğini bilir,oyunu daha eğlenceli hale getirebilirsiniz.
+# Windows Forms Kullanarak Motivasyon İçin Zar Atma Uygulaması
+
+  Bu projeyi yapma amacım biliyorsunuz ki masabaşı iş yapan çok fazla çalışan var. Her gün aynı enerji ve motivasyon da olamayabiliyoruz. İşimize enerji dolu başlamak ve daha iyi çalışabilmek için şans üzerine günlük iş motivasyonu sözünü işe başlamadan önce öğreneceğiz ve kahvemizden bir yudum alıp güne güzel başlayabileceğiz. Ayrıca çift zar denk getiren personele gün içinde erken çıkma veya ödül sistemi kullanarak kendini şanslı hissetmesini sağlayabilirsiniz. Hem kişisel personel girişin bulunduğu hemde şirket sahibinin günlük söz ve hatırlatmalarını paylaşabileceği uygulamada şirket sahibi personele özel ve departmanlara özel günlük sözlerini paylaşabilecek. Eğlenceli bir şekilde güne başlayan personellerin ay sonundaki başarısını gözle görülür şekilde farkedeceksiniz.
 # 1.pencere
-ilk penceremiz açtığımızda karşımıza gelen başlatma ekranımızdır. Başlatma butonuna bastığımızda bir sonraki penceremiz açılır.
-![1](https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/161dc940-cae7-4f31-b361-b611af9d6c2c)
+ilk penceremizi açtığınızda karşınıza kullanıcı girişinden sonra gelen başlatma ekranıdır. Başlatma butonuna bastığımızda bir sonraki penceremiz açılır.
+
+<img src="https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/36b33174-bee7-4a5c-90e1-f90e41264e72" width="320" height="250">
+
 # 2.pencere
-Bu ekranda zar atma deneyimi yapmadan önceki ekranımızdır. Zar at dediğimiz anda zarları atmış oluruz ve random olarak gelen zarları görürüz.![2](https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/24cb5172-ec89-4d8e-80be-5fbd78358a33)
+Bu ekranda zar atma deneyimi yapmadan önceki ekranımızdır. Zar at dediğimiz anda zarları atmış oluruz ve random olarak gelen zarları görürüz.
+
+<img src="https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/e6b61195-20cd-45fe-9d8c-e70f1d4ba423" width="320" height="250">
+
 # 3.pencere
-Zarı attık ve artık gelen sayılarımıza bakarız. örneğin;![3](https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/aaa230f9-e0b2-493c-9a72-a725a9c59323)
- > 4-4 geldi yani <strong>"dörtcihar"</strong> bunu uygulamız bize söyleyecek.
+Zarı attık ve artık gelen sayılarımıza bakarız.
+
+<img src="https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/a10fff6b-8af2-4099-b932-02f32e3dd75b"  width="320" height="250">
+
 # 4.pencere
-![4](https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/6ef281f8-4505-4b47-9670-a898a3ed5b1f)
-> böylece gelen sayının 4-4 olması durumunda adının ne olduğunu öğrendik.
-> <ul>
-   TAVLADA ZAR ADLARININ TAMAMI
-  
-     <li> 1-1: Hep Yek;
-     <li> 2-2: Dubara;
-     <li> 2-1: yek-i dü;
-     <li> 3-3: Dü Se;
-     <li> 3-2: Seba-i Dü;
-     <li> 3-1: Se Yek;
-     <li> 4-4: Dört Cihar ("Dört Caar" gibi de okunur);
-     <li> 4-3: Cihar-ü Se ("Caar-i Se" gibi de okunur);
-     <li> 4-2: Cihar-i Dü ("Caar-i Dü" gibi de okunur);
-     <li> 4-1: Cihar-ı Yek ("Caar-i Yek" gibi de okunur);
-     <li> 5-5: Dü Beş;
-     <li> 5-4: Cihar-ü Penc ("Caar-i Penc" gibi de okunur);
-     <li> 5-3: Penc-ü Se;
-     <li> 5-2: Penc-i Dü;
-     <li> 5-1: Penc-i Yek;
-     <li> 6-6: Dü Şeş;
-     <li> 6-5: Şeş Beş;
-     <li> 6-4: Şeş Cihar;
-     <li> 6-3: Şeş-ü Se;
-     <li> 6-2: Şeş-i Dü;
-     <li> 6-1: Şeş-i Yek;
-  </li>
-  </ul>
-  
-## İÇERİK
+Ve artık günlük motivasyon sözünü görebilirsiniz.
 
-Öncelikle projemizin içeriğinden ve nasıl açabileceğinizi açıklayacağım.
-<li> Ben uygulamamı tasarlarken Windows Forms kulllanacağım. Nedir bu windows forms ? Neden bunu tercih ettim hemen ufak bahsedeyim.
+<img src="https://github.com/muruvvettopsakal/windows_forms_zaratmauygulamasi/assets/102542473/0572becd-10af-48ed-80e9-17e52002c889" width="320" height="250">
+
+## İçerik
+
+ Ben uygulamamı tasarlarken Windows Forms kulllandım. Microsoft Visual Studio üzerinde geliştirdim. Sizde bu platformdan açabilirsiniz.
   Windows Forms, Microsoft tarafından geliştirilen bir framework'tür ve Windows tabanlı masaüstü uygulamaları geliştirmek için kullanılır. Windows Forms, kullanıcı arayüzü oluşturmayı ve etkileşimli Windows uygulamaları geliştirmeyi kolaylaştırır. Bu da bizim işimize gelir:)
-
-Windows Forms, aşağıdaki nedenlerle tercih edilebilirsiniz:
-
-   <li> Hızlı Geliştirme: Windows Forms, hızlı bir şekilde kullanıcı arayüzü oluşturmayı sağlar. Tasarım araçları ve sürükle-bırak özellikleri ile görsel olarak arayüz elemanlarını düzenleyebilir ve kolayca kod ekleyebilirsiniz.
-
-   <li> Büyük Kontrol Kütüphanesi: Windows Forms, geniş bir kontrol kütüphanesi sunar. Bu kontrol kütüphanesi, düğmeler, etiketler, metin kutuları, listeler, takvimler gibi birçok kullanıcı arayüzü elemanını içerir. Bu sayede zengin ve işlevsel kullanıcı arayüzleri oluşturabilirsiniz.
-
-  <li>  Masaüstü Uygulamaları: Windows Forms, masaüstü uygulamaları geliştirmek için özel olarak tasarlanmıştır. Bu tür uygulamalar, yerel olarak çalışır ve kullanıcının bilgisayarında doğrudan yüklü olurlar. Windows Forms, yerel kaynaklara erişim sağlayabilir ve sistem bileşenlerini kullanabilir.
-
-  <li>  .NET Framework Entegrasyonu: Windows Forms, .NET Framework ile bütünleşiktir. Bu, .NET Framework'ün sağladığı güçlü özellikleri kullanabilmenizi sağlar. Örneğin, veritabanı bağlantısı, veri bağlama, hata yönetimi gibi özelliklere kolayca erişebilirsiniz.
-
- <li>   Geniş Destek: Windows Forms, Microsoft tarafından desteklenen bir teknolojidir ve geniş bir topluluk tarafından kullanılır. Bu da demek oluyor ki, sorunlarınıza ve sorularınıza yanıtlar bulmak için kaynaklara, belgelere ve forumlara kolayca erişebilirsiniz.
-
->Windows Forms, hızlı ve kolay bir şekilde masaüstü uygulamaları geliştirmek isteyen geliştiriciler için iyi bir seçenektir. Ancak, web tabanlı uygulamalar veya mobil uygulamalar gibi farklı platformlarda çalışan uygulamalar için farklı teknolojiler veya framework'ler kullanmanız gerekebilir.
-</li>
-
-
-## Bu çalışmam da hangi programı kullananacağım?
-Microsoft Visual Studio
  
- # ŞİMDİ GELELİM PROJEDEKİ KULLANACAĞIMIZ KODLARDAN BAHSETMEYE
+ ## Proje kodları
  ## Giriş
  
- Giriş ekranımız için yani 1.pencere için giris.cs adında bir dosya oluşturmayı düşünüyorum. 
+ Giriş ekranımız için yani 1.pencere için giris.cs adında bir dosya oluşturdum. 
   
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         
-        Bu kod parçası giris.cs dosyamızda bulunacak. Windows Forms uygulamasında kullanılan özel alanların bildirimlerini içerir. Asıl temel mantığımız bunu oluşturmak olmalı.
-
+        Bu kod parçası giris.cs dosyamızda bulunacak. Windows Forms uygulamasında kullanılan özel alanların bildirimlerini içerir.
  </br>
  <strong>button1</strong>, bir düğme kontrolünü temsil eden özel bir alanı ifade eder.
    <strong>label1</strong> ve <strong>label2</strong>, etiket kontrollerini temsil eden özel alanları ifade eder.
 
-Bu alanlar genellikle bir Windows Forms sınıfı içinde kullanılır ve bu sınıfta tanımlanan kontrollere erişmek için kullanılır. Yani,<strong> button1 </strong>,  <strong> label1</strong> ve <strong>label2 </strong> gibi kontrol elemanlarına erişim sağlamak veya bu kontrol elemanları üzerinde işlemler gerçekleştirmek için bu özel alanları kullanabilirsiniz. Örneğin, düğmeye tıklandığında bir işlem gerçekleştirmek veya etiketlere metin atamak gibi.
+Bu alanlar genellikle bir Windows Forms sınıfı içinde kullanılır ve bu sınıfta tanımlanan kontrollere erişmek için kullanılır. Yani,<strong> button1 </strong>,  <strong> label1</strong> ve <strong>label2 </strong> gibi kontrol elemanlarına erişim sağlamak veya bu kontrol elemanları üzerinde işlemler gerçekleştirmek için bu özel alanları kullanılır. Örneğin, düğmeye tıklandığında bir işlem gerçekleştirmek veya etiketlere metin atamak gibi.
 ## Form1
-Form1.cs adında bir klasör oluşturacağım. Form1 sınıfı Form sınıfından türetilmiş bir sınıftır ve zar uygulamasının ana formunu temsil eder.
-Sonuçta bir zar oyunu simülasyonu gerçekleştiriyoruz.Bu simülasyonda button1 düğmesine tıklandığında rastgele iki zar atılacak ve sonuçlar görsel olarak görüntülenenecek. Aynı 2.penceredeki gibi.
+Form1.cs adında bir klasör oluşturdum. Form1 sınıfı Form sınıfından türetilmiş bir sınıftır ve zar uygulamasının ana formunu temsil eder.
+Sonuçta bir zar simülasyonu gerçekleştiriyoruz. Bu simülasyonda button1 düğmesine tıklandığında rastgele iki zar atılacak ve sonuçlar görsel olarak görüntülenenecek. Aynı 2.penceredeki gibi.
 
-Ben değişiklik olsun istedim ve sadece görsel değil işitsel olarakta kullanıcıya hitap etmeli, zar atım sesi ve özel çift zar atımları denk geldiğinde (1-1, 2-2, 3-3, 4-4, 5-5, 6-6) haberdar eden ses eklemeyi düşündüm.
- <strong> SoundPlayer</strong> sınıfını kullanarak bir ses dosyası ekleyeceğim.
- 
- Genel anlamda kullanacağım ve önemli olan kısımlardan bahsettim. Artık projeyi çalıştırıp inceleyebileceksiniz. 
+Ben değişiklik olsun istedim ve sadece görsel değil işitsel olarakta kullanıcıya hitap etmeli, zar atım sesi ve özel çift zar atımları denk geldiğinde haberdar eden ses ekledim.
+ <strong> SoundPlayer</strong> sınıfını kullanarak bir ses dosyası ekledim.
+
     
